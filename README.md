@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhishekJha3511](https://github.com/AbhishekJha3511)
 
-- 📝 I regularly write articles on [https://github.com/AbhishekJha3511](https://github.com/AbhishekJha3511)
+- 📝 I regularly write articles on [[https://github.com/AbhishekJha3511](https://medium.com/@avishekjha3511))
 
 - 💬 Ask me about **Python**
 
