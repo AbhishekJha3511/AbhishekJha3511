@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **DSA in Java**
 
-- 🌱 I’m currently learning **MERN, Java,**
+- 🌱 I’m working on **MERN, Java,**
 
 - 👯 I’m looking to collaborate on **React app**
 
