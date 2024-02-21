@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **MERN, C,**
+- 🌱 I’m currently learning **MERN, Java,**
 
 - 👯 I’m looking to collaborate on **React app**
 
