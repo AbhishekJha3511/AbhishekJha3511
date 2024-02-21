@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abhishekjha3511.github.io/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@avishekjha3511))
+- 📝 I regularly write articles on [Medium](https://medium.com/@avishekjha3511)
 
 - 📫 How to reach me **avishekjha3511@gmail.com**
 
