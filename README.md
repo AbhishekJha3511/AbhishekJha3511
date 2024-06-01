@@ -26,8 +26,8 @@
   <a href="https://twitter.com/abhishe44113198" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe44113198" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/in/abhishek-jha-3511" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abhishek-jha-36b82b210" height="30" width="40" />
+  <a href="https://linkedin.com/in/abhishekjha3511" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abhishekjha3511" height="30" width="40" />
   </a>
   <a href="https://fb.com/abhishekjha9392?mibextid=zbwkwl" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishekjha9392?mibextid=zbwkwl" height="30" width="40" />
