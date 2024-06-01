@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">I am passionate about learning full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha3511&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha3511" /> </p>
 
 - 🔭 I’m currently learning **DSA in Java**
 
-- 🌱 I’m working on **MERN, Java,**
+- 🌱 I’m working on **Todo List**
 
-- 👯 I’m looking to collaborate on **React app**
+- 👯 I’m looking to collaborate on **Website Development**
 
-- 🤝 I’m looking for help with **site clone**
+- 🤝 I’m looking for help with **Java**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Web Development**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abhishekjha3511.github.io/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@avishekjha3511)
+<!--- - 📝 I regularly write articles on [Medium](https://medium.com/@avishekjha3511) --->
 
 - 📫 How to reach me **avishekjha3511@gmail.com**
 
