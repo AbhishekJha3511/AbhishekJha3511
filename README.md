@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">I am passionate about learning full stack developer</h3>
+<h3 align="center">I am passionate about learning full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha3511&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha3511" /> </p>
 
